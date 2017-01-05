@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Actions</key>
+    <array>
+        <dict>
+            <key>After</key>
+            <string>copy-result</string>
+            <key>Script Interpreter</key>
+            <string>/usr/bin/ruby</string>
+            <key>Shell Script File</key>
+            <string>aton.rb</string>
+            <key>Title</key>
+            <string>ATON</string>
+        </dict>
+    </array>
+    <key>Credits</key>
+    <array>
+        <dict>
+            <key>Link</key>
+            <string>suhai.me</string>
+            <key>Name</key>
+            <string>Su Hai</string>
+        </dict>
+    </array>
+    <key>Extension Description</key>
+    <string>Converts an ASCII string into an (Ipv4) Internet network address</string>
+    <key>Extension Identifier</key>
+    <string>me.suhai.popclip.extension.aton</string>
+    <key>Extension Name</key>
+    <string>ATON</string>
+    <key>Version</key>
+    <integer>1</integer>
+</dict>
+</plist>
